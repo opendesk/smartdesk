@@ -17,7 +17,7 @@ This document describes a loose methodology for mounting small pieces of computi
 - Consideration MUST be given to how wires will be run to the hardware used, and adequate space allowed for this around the mounting surface.
 - Four mounting holes MUST be provided on the surface, their centres at the corners of a 100mm x 60mm rectangle centered on the surface as shown in the diagramme below. The holes MUST be either circular drilled holes 6mm in diameter and at lest 10mm deep to accommodate 6mm dowels or M4 threaded inserts. These centres have been chosen for compatibility with the [OpenStructures](http://openstructures.net/) grid.
 
-![mount image](https://github.com/opendesk/smartdesk/blob/master/images/mount.png)
+![mount image](https://github.com/opendesk/smartdesk/blob/master/images/mount.jpg)
 
 
 ### Intermediate Mounts
