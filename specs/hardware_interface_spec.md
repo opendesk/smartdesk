@@ -2,11 +2,11 @@
 
 This document describes how computing hardware is to be integrated into smartdesk furniture. For clarity it uses specific key words such as SHOULD, MAY etc to describe its specifications, their meanings are given [here](key_word_definitions.md).
 
-## Overview
+### Overview
 
 This document describes a loose methodology for mounting small pieces of computing hardware such as Arduinos or Raspberry Pis into furniture to aid interoperability. It MUST NOT be relied on to provide any level of assurance as to the safety or advisability of any particular implementation. If you are mounting electronics into furniture you MUST ensure that your installation is safe and complies with any legislation that applies in your country. 
 
-## Mounting Space Requirements
+### Mounting Space Requirements
 
 - Any piece of smartdesk furniture MUST provide a clear flat surface for electronics to be mounted on. 
 - This surface MAY be in any orientation. 
@@ -17,7 +17,7 @@ This document describes a loose methodology for mounting small pieces of computi
 - Consideration MUST be given to how wires will be run to the hardware used, and adequate space allowed for this around the mounting surface.
 - Four mounting holes MUST be provided on the surface, their centres at the corners of a 100mm x 60mm rectangle centered on the surface as shown in the diagramme below. The holes MUST be either circular drilled holes 6mm in diameter and at lest 10mm deep to accommodate 6mm dowels or M4 threaded inserts. These centres have been chosen for compatibility with the [OpenStructures](http://openstructures.net/) grid.
 
-## Intermediate Mounts
+### Intermediate Mounts
 
 - Electronics MUST NOT be mounted directly to the surface of the furniture, an intermediate mount of some kind MUST be used that is attached to the furniture which MUST use the mounting holes described above.
 - Intermediate mounts MAY be of any size or dimensions but can only rely on furniture providing the space described above.
