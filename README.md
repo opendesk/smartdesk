@@ -21,27 +21,35 @@ This repo will also hold some individual project resources which can be added to
 
 ## Hardware Interface
 
-(hardware interface spec)[https://github.com/opendesk/smartdesk/blob/master/specs/hardware_interface_spec.md]
+Physical integration of computing hardware into desk.
 
-(hardware interface issue)[https://github.com/opendesk/smartdesk/issues/1]
+[hardware interface spec](https://github.com/opendesk/smartdesk/blob/master/specs/hardware_interface_spec.md)
+
+[hardware interface issue](https://github.com/opendesk/smartdesk/issues/1)
 
 ## Component Interface
 
-(component interface spec)[https://github.com/opendesk/smartdesk/blob/master/specs/component_interface_spec.md]
+Customisation of desk to accommodate accessories.
 
-(component interface issue)[https://github.com/opendesk/smartdesk/issues/2]
+[component interface spec](https://github.com/opendesk/smartdesk/blob/master/specs/component_interface_spec.md)
+
+[component interface issue](https://github.com/opendesk/smartdesk/issues/2)
 
 ## Furniture Identity
 
-(furniture identity spec)[https://github.com/opendesk/smartdesk/blob/master/specs/furniture_identity_spec.md]
+Identity of furniture to facilitate integration of technology.
 
-(furniture identity issue)[https://github.com/opendesk/smartdesk/issues/3]
+[furniture identity spec](https://github.com/opendesk/smartdesk/blob/master/specs/furniture_identity_spec.md)
+
+[furniture identity issue](https://github.com/opendesk/smartdesk/issues/3)
 
 ## Project Curation
 
-(project curation spec)[https://github.com/opendesk/smartdesk/blob/master/specs/project_curation_spec.md]
+Curation of projects, software and documentation.
 
-(project curation issue)[https://github.com/opendesk/smartdesk/issues/4]
+[project curation spec](https://github.com/opendesk/smartdesk/blob/master/specs/project_curation_spec.md)
+
+[project curation issue](https://github.com/opendesk/smartdesk/issues/4)
 
 
 
