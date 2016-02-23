@@ -1,0 +1,1 @@
+#Smartdesk Hardware Interface Spec

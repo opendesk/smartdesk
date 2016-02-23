@@ -1,0 +1,1 @@
+#Smartdesk Component Interface Spec

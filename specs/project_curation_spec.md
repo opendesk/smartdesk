@@ -1,0 +1,1 @@
+#Smartdesk Project Curation Spec
