@@ -27,7 +27,7 @@ Physical integration of computing hardware into furniture.
 
 [hardware interface spec](/specs/hardware_interface_spec.md)
 
-[hardware interface issue](/issues/1)
+[hardware interface issue](https://github.com/opendesk/smartdesk/issues/1)
 
 ## Component Interface
 
@@ -35,7 +35,7 @@ Customisation of furniture to accommodate accessories.
 
 [component interface spec](/specs/component_interface_spec.md)
 
-[component interface issue](/issues/2)
+[component interface issue](https://github.com/opendesk/smartdesk/issues/2)
 
 ## Furniture Identity
 
@@ -43,7 +43,7 @@ Identity of furniture to facilitate integration of technology.
 
 [furniture identity spec](/specs/furniture_identity_spec.md)
 
-[furniture identity issue](/issues/3)
+[furniture identity issue](https://github.com/opendesk/smartdesk/issues/3)
 
 ## Project Curation
 
@@ -51,7 +51,7 @@ Curation of projects, software and documentation.
 
 [project curation spec](/specs/project_curation_spec.md)
 
-[project curation issue](/issues/4)
+[project curation issue](https://github.com/opendesk/smartdesk/issues/4)
 
 ## Projects
 
