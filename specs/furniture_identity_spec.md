@@ -11,7 +11,7 @@ There are many different way to identify objects in the real world and refer to 
 
 - A piece of smartdesk furniture MAY have a unique identifier. 
 - This identifier MUST be a string of not more than 128 characters using only lowercase ascii encoded unreserved characters described in [RFC 3986](http://tools.ietf.org/html/rfc3986#section-2.3). This means lowercase alphanumeric and the characters `-`  `.`  `_`  `~`. This restriction is to ensure that these identifiers can be used unescaped in URIs.
-- There is no common form for these identifiers to help guarantee their uniqueness, thus their is no guarantee of their uniqueness. Rather it is the responsibility of the creator to choose a strategy that suits their needs.
+- There is no common form for these identifiers to help guarantee their uniqueness, thus there is no guarantee of their uniqueness, rather it is the responsibility of their creator to choose a strategy that suits their needs.
 - A unique identifier MAY be a [UUID](https://en.wikipedia.org/wiki/Universally_unique_identifier) something like this `de305d54-75b4-431b-adb2-eb6b9e546014`
 - A unique identifier MAY use a domain either reversed or not to aid uniqueness eg `cc.opendesk.12345678`
 
