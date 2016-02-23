@@ -10,8 +10,8 @@ We have identified four principal areas of our work that are generic and span ma
 
 In each area we are developing specs. We are thinking about what would be most useful to provide or specify to facilitate a wide range of collaborators and diverse projects: tight enough to be useful and loose enough to be accommodating.
 
-- **Hardware Interface**  - Physical integration of computing hardware into desk.
-- **Component Interface** - Customisation of desk to accommodate accessories.
+- **Hardware Interface**  - Physical integration of computing hardware into furniture.
+- **Component Interface** - Customisation of furniture to accommodate accessories.
 - **Furniture Identity** - Identity of furniture to facilitate integration of technology.
 - **Project Curation** - Curation of projects, software and documentation.
 
@@ -21,7 +21,7 @@ This repo will also hold some individual project resources which can be added to
 
 ## Hardware Interface
 
-Physical integration of computing hardware into desk.
+Physical integration of computing hardware into furniture.
 
 [hardware interface spec](https://github.com/opendesk/smartdesk/blob/master/specs/hardware_interface_spec.md)
 
@@ -29,7 +29,7 @@ Physical integration of computing hardware into desk.
 
 ## Component Interface
 
-Customisation of desk to accommodate accessories.
+Customisation of furniture to accommodate accessories.
 
 [component interface spec](https://github.com/opendesk/smartdesk/blob/master/specs/component_interface_spec.md)
 
