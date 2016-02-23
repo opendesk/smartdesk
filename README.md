@@ -10,33 +10,36 @@ In each area we are developing specs. We are thinking about what would be most u
 
 - **Hardware Interface**  - Physical integration of computing hardware into desk.
 - **Component Interface** - Customisation of desk to accommodate accessories.
-- **Furniture Identity** - Identity of desk to facilitate integration of technology.
+- **Furniture Identity** - Identity of furniture to facilitate integration of technology.
 - **Project Curation** - Curation of projects, software and documentation.
 
-This repo serves as a home for the specs Opendesk are developing in each area and a point for discussion and collaboration on their development, each has a markdown document containing the spec and an issue as a starting point for discussion. Any additional resources, designs, code binaries etc can go in the `resources/*` folders.
+This repo serves as a home for the specs Opendesk are developing in each area and a point for discussion and collaboration on their development. Each has a markdown document containing the spec and an issue as a starting point for discussion. Any additional resources, designs, code binaries etc can go in the `resources/*` folders.
 
 This repo will also hold some individual project resources which can be added to the `projects` folder rather than their own repo.
 
 ## Hardware Interface
 
-Something has to sit between our desks any computing hardware we use. We could leave this interface completely unspecified, as it isn't really very hard, but it might be useful to mandate something.
+(hardware interface spec)[https://github.com/opendesk/smartdesk/blob/master/specs/hardware_interface_spec.md]
 
-At the largest scale we could design a common component that can be built into any desk, such as the cable tray cover, that is a visible, integral part of the desk.
-
-We could come up an enclosure that would be hidden but could be added to any desk.
-
-With or without a fixed, enclosing object or surface we could specify a methodology for attaching hardware to furniture. Many possibilities including: cutting templates, mounting templates, pcbs standoffs, adopting an existing format. I like the idea of using Lego for added deconstructibility.
-
-We need to accommodate a variety of processing hardware: Arduino, Raspberry Pi, Seeed etc. Do we specify a minimum size of space? Do we allow for bigger puters like the Intel nuc or Mac mini? Probably if we want to do decent data storage and embedded game servers (paul).
-
-Power! Consideration needs to be given to running cables and accomidating transformers. Powered usb hub?
-
+(hardware interface issue)[https://github.com/opendesk/smartdesk/issues/1]
 
 ## Component Interface
 
+(component interface spec)[https://github.com/opendesk/smartdesk/blob/master/specs/component_interface_spec.md]
+
+(component interface issue)[https://github.com/opendesk/smartdesk/issues/2]
+
 ## Furniture Identity
 
+(furniture identity spec)[https://github.com/opendesk/smartdesk/blob/master/specs/furniture_identity_spec.md]
+
+(furniture identity issue)[https://github.com/opendesk/smartdesk/issues/3]
+
 ## Project Curation
+
+(project curation spec)[https://github.com/opendesk/smartdesk/blob/master/specs/project_curation_spec.md]
+
+(project curation issue)[https://github.com/opendesk/smartdesk/issues/4]
 
 
 
