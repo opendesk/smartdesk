@@ -17,7 +17,9 @@ In each area we are developing specs. We are thinking about what would be most u
 
 This repo serves as a home for the specs Opendesk are developing in each area and a point for discussion and collaboration on their development. Each has a markdown document containing the spec and an issue as a starting point for discussion. Any additional resources, designs, code binaries etc can go in the `resources/*` folders.
 
-This repo will also hold some individual project resources which can be added to the `projects` folder rather than their own repo.
+**Projects**
+
+This repo will also hold some individual project resources which can be added to the `projects` folder rather than their own repos.
 
 ## Hardware Interface
 
@@ -47,9 +49,10 @@ Identity of furniture to facilitate integration of technology.
 
 Curation of projects, software and documentation.
 
-[project curation spec](https://github.com/opendesk/smartdesk/blob/master/specs/project_curation_spec.md)
+[project curation spec](/blob/master/specs/project_curation_spec.md)
 
-[project curation issue](https://github.com/opendesk/smartdesk/issues/4)
+[project curation issue](/issues/4)
 
+## Projects
 
-
+[Some current projects](/projects/projects_list.md)
