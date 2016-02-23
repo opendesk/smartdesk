@@ -25,7 +25,7 @@ This repo will also hold some individual project resources which can be added to
 
 Physical integration of computing hardware into furniture.
 
-[hardware interface spec](/specs/hardware_interface_spec.md)
+[hardware interface spec](https://github.com/opendesk/smartdesk/blob/master/specs/hardware_interface_spec.md)
 
 [hardware interface issue](https://github.com/opendesk/smartdesk/issues/1)
 
@@ -33,7 +33,7 @@ Physical integration of computing hardware into furniture.
 
 Customisation of furniture to accommodate accessories.
 
-[component interface spec](/specs/component_interface_spec.md)
+[component interface spec](https://github.com/opendesk/smartdesk/blob/master/specs/component_interface_spec.md)
 
 [component interface issue](https://github.com/opendesk/smartdesk/issues/2)
 
@@ -41,7 +41,7 @@ Customisation of furniture to accommodate accessories.
 
 Identity of furniture to facilitate integration of technology.
 
-[furniture identity spec](/specs/furniture_identity_spec.md)
+[furniture identity spec](https://github.com/opendesk/smartdesk/blob/master/specs/furniture_identity_spec.md)
 
 [furniture identity issue](https://github.com/opendesk/smartdesk/issues/3)
 
@@ -49,10 +49,10 @@ Identity of furniture to facilitate integration of technology.
 
 Curation of projects, software and documentation.
 
-[project curation spec](/specs/project_curation_spec.md)
+[project curation spec](https://github.com/opendesk/smartdesk/blob/master/specs/project_curation_spec.md)
 
 [project curation issue](https://github.com/opendesk/smartdesk/issues/4)
 
 ## Projects
 
-[Some current projects](/projects/project_list.md)
+[Some current projects](https://github.com/opendesk/smartdesk/blob/master/projects/project_list.md)
