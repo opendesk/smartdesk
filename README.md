@@ -2,6 +2,8 @@
 
 The singularity has four legs and is 750mm high
 
+![image of unit table](images/unit_table.jpg)
+
 smartdesk is an umbrella project pulling together some of the thinking at Opendesk about the uses of computing within our furniture. We want to open this work out to our partners and collaborators, makers and technologists, and anyone interested in putting together tech and plywood. 
 
 We have identified four principal areas of our work that are generic and span many possible projects and desirable applications of a smart desk.
