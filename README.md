@@ -55,4 +55,4 @@ Curation of projects, software and documentation.
 
 ## Projects
 
-[Some current projects](/projects/projects_list.md)
+[Some current projects](/projects/project_list.md)
