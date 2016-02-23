@@ -1,6 +1,6 @@
 # Smartdesk Hardware Interface Spec
 
-This document describes how computing hardware is to be integrated into smartdesk furniture. For clarity it uses specific key words such as SHOULD, MAY etc to describe its specifications, their meanings are given [key_word_definitions.md](here).
+This document describes how computing hardware is to be integrated into smartdesk furniture. For clarity it uses specific key words such as SHOULD, MAY etc to describe its specifications, their meanings are given [here](key_word_definitions.md).
 
 ## Overview
 

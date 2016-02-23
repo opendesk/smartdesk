@@ -1,6 +1,6 @@
 # Smartdesk Furniture Identity Spec
 
-This document describes how identity is assigned to furniture to facilitate integration of technology. For clarity it uses specific key words such as SHOULD, MAY etc to describe its specifications, their meanings are given [key_word_definitions.md](here).
+This document describes how identity is assigned to furniture to facilitate integration of technology. For clarity it uses specific key words such as SHOULD, MAY etc to describe its specifications, their meanings are given [here](key_word_definitions.md).
 
 ## Overview
 
