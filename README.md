@@ -17,6 +17,8 @@ In each area we are developing specs. We are thinking about what would be most u
 
 This repo serves as a home for the specs Opendesk are developing in each area and a point for discussion and collaboration on their development. Each has a markdown document containing the spec and an issue as a starting point for discussion. Any additional resources, designs, code binaries etc can go in the `resources/*` folders.
 
+The plan is to use [issues](https://github.com/opendesk/smartdesk/issues) freely, a bit as you would forums posts for discussion, with the added advantage of rich linking to docs and code.
+
 **Projects**
 
 This repo will also hold some individual project resources which can be added to the `projects` folder rather than their own repos.
