@@ -18,7 +18,7 @@ There are many different way to identify objects in the real world and refer to 
 - There is no common form for these identifiers to help guarantee their uniqueness, thus there is no guarantee of their uniqueness, rather it is the responsibility of their the naming authority to choose a strategy that suits their needs.
 - A unique identifier MAY be a [UUID](https://en.wikipedia.org/wiki/Universally_unique_identifier) something like this `de305d54-75b4-431b-adb2-eb6b9e546014`
 - A unique identifer MAY be short and human readable e.g. `pauls-desk`
-- A unique name MAY contain a representation of information about the nature of the object it names e.g. `pauls-desk` or `dsk-paul` but this information MUST NOT be relied on expected to carry semantic significance. 
+- A unique name MAY contain a representation of information about the nature of the object it names e.g. `pauls-desk` or `dsk-paul` but this information SHOULD NOT be relied on expected to carry semantic significance. 
 
 
 ### Type names
@@ -35,7 +35,7 @@ There are many different way to identify objects in the real world and refer to 
 ### Roles and Structures
 
 - Furniture like many objects are used by multiple groups/organisations and therefore single object MAY have multiple names representing its different roles.
-- Roles within organisations SHOULD follow the type and instance naming conventions layed out above and SHOULD adopt URN style composition and MAY include nested scopes, but best practice to aid in interoperability between organisations is to keep such structures flat for identity of objects and then use graphs of linked objects to describe organisational or physical structure. 
+- Roles within organisations SHOULD follow the type and instance naming conventions layed out above and SHOULD adopt URN style composition. Best practice to aid in interoperability between organisations is to keep such structures flat for identity of objects and then use graphs of linked objects to describe organisational or physical structure. 
 
 
 ### URIs and URLs for desks
