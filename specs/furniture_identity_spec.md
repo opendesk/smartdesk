@@ -9,7 +9,8 @@ There are many different way to identify objects in the real world and refer to 
 ### Naming Authority
 
 - A identifiable piece of furniture MUST declare a naming authority that has named it. 
-- A naming authority is a domain name, with optional sub-domains, that is under the control of the person/s or organisation that has named the furniture.
+- A naming authority is a domain name, with optional sub-domains, that is under the control of the person/s or organisation that has named the furniture. 
+- This authority is a convention adopted directly from URN https://en.wikipedia.org/wiki/Uniform_Resource_Identifier authority but restricted to only using host names and not including userinfo, port or ip.
 
 ### Unique Names
 
@@ -29,7 +30,7 @@ There are many different way to identify objects in the real world and refer to 
 - Such terms MUST follow the same rules as unique names but with the following additional restrictions: no numbers, no use of  `-`  `.`  `~`, so that only underscore is used to separate words. This is to make it as robust as possible through different systems.
 - Type names OUGHT to be chosen from common sets of terms shared between organisations to aid interoperatibilty.
 - If a specific shared taxonomy is being use it SHOULD be indicated.
-- Taxonomy's of type names MAY provide aliases to types to support human readability. These aliases should allow any utf-8 encoded strings to support multiple languages and localised naming conventions e.g. `chair` > `russian:стул`, `acronym:CHR`
+- Taxonomy's of type names MAY provide aliases to types to support human readability. These aliases should allow any utf-8 encoded strings to support multiple languages and localised naming conventions e.g. `chair` > `russian:стул`, `acronym:CHR`. Such aliases should not be used in cannonical names.
 
 
 ### Roles and Structures
